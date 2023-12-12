@@ -14,6 +14,7 @@
 Using Tkinter and Python to make a Typing Speed Test App
 
 # Images:
+ 
 
 ![typing_01.png](images/typing_01.png)
 <br>
@@ -22,3 +23,4 @@ Using Tkinter and Python to make a Typing Speed Test App
 ![typing_03.png](images/typing_03.png)
 
 
+Disclaimer: I do not own rights to keyboard image. Used for personal project only.
