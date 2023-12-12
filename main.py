@@ -15,11 +15,8 @@ IS_PLAYING = True
 
 
 # ---------------------------- TRACKING ENTRY ------------------------------- #
-# TODO: Fix repeating words
 def update_entry(user_input, word_label, entry_widget):
     global TIME_ELAPSED
-
-    # new_word = random.choice(word_list)
 
     # Choose a word that has not been used yet
     unused_words = set(word_list) - set(ENTRIES)
